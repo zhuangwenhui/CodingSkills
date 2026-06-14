@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Code Format"
+  short_description: "Apply project-specific C++/C style guidance"
+  default_prompt: "Use $cpp-code-format to guide C++/C style decisions for this task."

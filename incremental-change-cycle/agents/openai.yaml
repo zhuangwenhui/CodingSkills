@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incremental Change Cycle"
+  short_description: "Run the review-simplify-verify workflow for incremental changes"
+  default_prompt: "Run the incremental change cycle for the current change set."

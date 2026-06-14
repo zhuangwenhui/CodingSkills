@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Code Format"
+  short_description: "Apply project-specific Python style guidance"
+  default_prompt: "Use $python-code-format to guide Python style decisions for this task."
