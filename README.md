@@ -20,3 +20,7 @@ Drop a skill folder into your assistant's skills directory and invoke it by name
 
 - Claude Code: `~/.claude/skills/<skill>/`
 - Codex: `~/.codex/skills/<skill>/`
+
+## License
+
+[MIT](LICENSE) © 2026 WENHUIZ
